@@ -1,0 +1,2 @@
+﻿  Reversal.cpp
+C:\Users\kiero\OneDrive - Staffordshire University\Games Engine Creation\Portfolio\Week 7\Reversal\Reversal\Reversal.cpp(15,31): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::c_str': non-standard syntax; use '&' to create a pointer to member
