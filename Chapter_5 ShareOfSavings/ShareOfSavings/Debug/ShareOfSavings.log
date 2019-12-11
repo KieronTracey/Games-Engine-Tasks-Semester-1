@@ -1,0 +1,3 @@
+﻿  ShareOfSavings.cpp
+C:\Users\kiero\Desktop\tempfolder2\ShareOfSavings\ShareOfSavings\ShareOfSavings.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'float'
+  ShareOfSavings.vcxproj -> C:\Users\kiero\Desktop\tempfolder2\ShareOfSavings\Debug\ShareOfSavings.exe
